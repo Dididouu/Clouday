@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans&family=Ubuntu);
 body{
     background-color: lightcyan;
 }
 h1{
-    color:#ae3a3a; font-family:Arial, Helvetica, sans-serif;
+    color:#ae3a3a; font-family:Ubuntu;
 }
